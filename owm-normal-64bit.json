@@ -1,8 +1,8 @@
 {
-    "OffWork64": [
+    "OffWork": [
         {
             "owm_lib": "OWMx64",
-            "phien_ban": 1.11
+            "phien_ban": 1.12
         }
     ]
 }
